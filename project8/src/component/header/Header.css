@@ -1,0 +1,18 @@
+.header{
+    position: relative;
+    width:79.8vw;
+    height: 7vh;
+    background-color: #202020;
+  }
+  
+  .menu{
+    /* padding: 1px; */
+    position: relative;
+    width:79.8vw;
+    height: 7vh;
+    color:#f9f9f9;
+  }
+
+  .btn-login{
+    margin-left:55vw;
+  }
